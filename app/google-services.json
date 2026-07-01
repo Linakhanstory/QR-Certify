@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4102076749",
+    "project_id": "qr-certify",
+    "storage_bucket": "qr-certify.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4102076749:android:53a5e2a9030f7d2d441f04",
+        "android_client_info": {
+          "package_name": "com.example.qr_certify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqemD3397yx-fzn3gk9X1nL8g2NaqXp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
